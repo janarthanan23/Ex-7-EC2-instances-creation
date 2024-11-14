@@ -4,7 +4,7 @@
 To set up and launch an Amazon EC2 instance, providing on-demand computing services with flexible configurations for application deployment.
 
 
-**Name**: JANARTHANAN S B<br>
+**Name**: JANARTHANAN S <br>
 **Reg No**: 212222040058
 
 
