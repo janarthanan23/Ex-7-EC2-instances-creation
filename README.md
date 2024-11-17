@@ -3,11 +3,6 @@
 ## **Aim**
 To set up and launch an Amazon EC2 instance, providing on-demand computing services with flexible configurations for application deployment.
 
-
-**Name**: JANARTHANAN S <br>
-**Reg No**: 212222040058
-
-
 ## **Objectives**
 1. **Log into AWS**: Access the AWS Management Console to create and manage resources.
 2. **Launch EC2 Instance**: Configure the required instance parameters, including OS, storage, instance type, and network settings.
